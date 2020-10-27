@@ -1,1 +1,19 @@
-# Twitter-US-Airline
+# Twitter US Airline
+
+<br>
+
+Dataset link: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+
+
+# About
+<br>
+
+This data originally came from Crowdflower's Data for Everyone library.
+
+As the original source says,
+
+```
+A sentiment analysis job about the problems of each major U.S. airline. 
+Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, 
+and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").
+```
